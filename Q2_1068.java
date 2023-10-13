@@ -1,3 +1,10 @@
+/*
+
+Name: Tushar Kumar
+Reg_No: 2341011216
+PS LINK: https://cses.fi/problemset/task/1068
+
+ */
 import java.util.Scanner;
 
 public class Main {

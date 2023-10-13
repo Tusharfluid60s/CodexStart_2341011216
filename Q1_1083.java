@@ -1,6 +1,12 @@
 import java.util.HashSet;
 import java.util.Scanner;
+/*
 
+Name: Tushar Kumar
+Reg_No: 2341011216
+PS LINK: https://cses.fi/problemset/task/1083
+
+ */
 public class Main {
     public static void main(String[] args) {
   int a = helper();

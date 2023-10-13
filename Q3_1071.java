@@ -1,3 +1,10 @@
+/*
+
+Name: Tushar Kumar
+Reg_No: 2341011216
+PS LINK: https://cses.fi/problemset/task/1071
+
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
